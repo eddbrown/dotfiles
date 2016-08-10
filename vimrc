@@ -140,6 +140,8 @@ set expandtab                     " Expand tabs into spaces.
 set smarttab                      " Insert spaces in front of lines.
 set listchars=tab:··,trail:·      " Show leading whitespace
 set list
+set wildmenu
+set wildmode=longest,list
 
 " ------------------------------------------------------------------------------
 " Presentation
